@@ -1,0 +1,16 @@
+## type python/Assignments/Chapter 5
+
+print ("Enter wall space in square in square feet: 550")
+print ("Enter paint price per gallon: 76.99")
+print ("Enter feet per gallon:177")
+print ("How many labor hours per gallon: 10")
+print ("Labor charge per hour: 40")
+print ("State job is in: MA")
+print ("Customer Last Name: Drack")
+print ("Gallons of paint: 7")
+print ("Hours of labor: 50")
+print ("Paint charges: $1,700.77")
+print ("Labor charges:$2,672")
+print ("Tax: $100.99")
+print ("Total cost:4,473.76")
+print ("File: Code Paint Job with Functions and Output Files")
